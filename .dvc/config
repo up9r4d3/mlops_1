@@ -1,0 +1,7 @@
+[core]
+	remote = ssh-storage
+['remote "ssh-storage"']
+	url = ssh://data_srv@192.168.56.112/opt/datasets
+	password = 123
+	user = balon
+	port = 22
